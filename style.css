@@ -70,7 +70,7 @@ nav a {
     transition: 0.2s ease;
 }
 
-nav a:hover {
+nav a.active {
     color: #0b7770;
 }
 

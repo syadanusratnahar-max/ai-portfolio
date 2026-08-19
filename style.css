@@ -512,3 +512,28 @@ footer p {
         width: 100%;
     }
 }
+
+/* Project Links */
+.project-links {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.project-links a {
+    display: inline-block;
+    padding: 9px 16px;
+    border: 1px solid #102a2a;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #102a2a;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.project-links a:hover {
+    background: #102a2a;
+    color: white;
+}

@@ -281,41 +281,89 @@
 
 
         <!-- Contact -->
-        <section id="contact" class="section contact-section">
-            <div class="container">
+        
+<section id="contact" class="section contact-section">
+    <div class="container">
 
-                <p class="section-label">CONTACT</p>
+        <p class="section-label">CONTACT</p>
 
-                <h2>Let's connect.</h2>
+        <h2>Let's connect.</h2>
 
-                <p>
-                    I'm always interested in learning, collaborating on
-                    projects, and connecting with people in technology.
-                </p>
+        <p>
+            I'm always interested in learning, collaborating on
+            projects, and connecting with people in technology.
+        </p>
 
-                <div class="contact-links">
+        <!-- Dynamic Contact Form -->
+        <form action="https://formspree.io/f/mdenpvzn"
+              method="POST"
+              class="contact-form">
 
-                    <a href="mailto:syadanusratnahar@gmail.com">
-                        Email
-                    </a>
+            <label for="name">Name</label>
 
-                    <a href="https://github.com/syadanusratnahar-max"
-                       target="_blank">
-                        GitHub
-                    </a>
+            <input
+                type="text"
+                id="name"
+                name="name"
+                placeholder="Your name"
+                required
+            >
 
-                    <a href="https://www.linkedin.com/in/syada-nusrat-nahar"
-                       target="_blank">
-                        LinkedIn
-                    </a>
+            <label for="email">Email</label>
 
-                    <a href="https://calendar.app.google/DTgYNFDG7Ua7gvf56" target="_blank" rel="noopener noreferrer">Book a Meeting
-                    </a>
+            <input
+                type="email"
+                id="email"
+                name="email"
+                placeholder="Your email address"
+                required
+            >
 
-                </div>
+            <label for="message">Message</label>
 
-            </div>
-        </section>
+            <textarea
+                id="message"
+                name="message"
+                rows="6"
+                placeholder="Write your message..."
+                required
+            ></textarea>
+
+            <button type="submit" class="button primary">
+                Send Message
+            </button>
+
+        </form>
+
+        <!-- Existing contact links -->
+        <div class="contact-links">
+
+            <a href="mailto:syadanusratnahar@gmail.com">
+                Email
+            </a>
+
+            <a href="https://github.com/syadanusratnahar-max"
+               target="_blank"
+               rel="noopener noreferrer">
+                GitHub
+            </a>
+
+            <a href="https://www.linkedin.com/in/syada-nusrat-nahar"
+               target="_blank"
+               rel="noopener noreferrer">
+                LinkedIn
+            </a>
+
+            <a href="https://calendar.app.google/DTgYNFDG7Ua7gvf56"
+               target="_blank"
+               rel="noopener noreferrer">
+                Book a Meeting
+            </a>
+
+        </div>
+
+    </div>
+</section>
 
     </main>
 

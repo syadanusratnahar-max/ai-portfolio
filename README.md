@@ -42,6 +42,15 @@ StudyMate is designed to support the planning process. The user remains responsi
 
 The complete StudyMate documentation, evaluation results, limitations, and demo information are included in the project documentation.
 
+### StudyMate Documentation
+
+The complete StudyMate documentation includes the project overview, setup instructions, usage examples, architecture, evaluation results, limitations, and AI transparency information.
+
+**[View StudyMate Documentation](./studymate/README.md)**
+
+**[Watch the StudyMate Demo](https://drive.google.com/file/d/1hDxU6pBn07_HgNk7R7j0PiMYj4U0jEZF/view?usp=sharing)**
+
+
 ---
 
 ## Portfolio Contents

@@ -1,0 +1,19 @@
+# AI Fluency Track Retrospective
+
+When I started the AI Fluency track in Week 1, I considered myself a beginner in artificial intelligence. I was familiar with using AI tools for getting answers and helping with different tasks, but I did not yet have a clear understanding of how to use AI as a structured problem-solving and development tool. I wanted to become more confident with AI, understand how to use it effectively, and eventually build something useful rather than simply asking AI questions.
+
+During the track, my understanding of AI gradually changed. I learned that using AI effectively is not only about writing a good prompt and receiving an answer. It also involves giving clear instructions, defining a specific purpose, testing the results, identifying limitations, and reviewing the output myself. This changed the way I think about AI. Instead of treating AI as something that simply gives me an answer, I began to see it as a tool that can help me think, organize ideas, experiment, and build practical solutions.
+
+My main project was StudyMate, a personal AI assignment-planning agent designed to help university students understand assignment instructions and organize their work. I chose this idea because students often receive long assignment instructions and may not immediately know what they need to do first. StudyMate focuses on turning those instructions into a simple assignment goal, a list of tasks, a checklist, and important requirements.
+
+One important decision I made while developing StudyMate was to keep its purpose focused. Instead of trying to make it an AI that does everything for a student, I designed it specifically around assignment understanding and planning. I also instructed it not to invent deadlines, requirements, sources, or facts. If information is missing or unclear, StudyMate should identify the problem instead of guessing. This helped me understand why clear boundaries are important when building an AI agent.
+
+I also tested StudyMate against its intended behaviors. The testing focused on whether it could understand an assignment, identify deliverables, break work into manageable steps, create a checklist, identify important requirements, recognize missing information, avoid inventing information, and keep the user in control. This testing helped me see that building an AI project is not finished when the first version works. Evaluation and review are necessary to understand whether the system actually behaves as intended.
+
+The biggest change in how I work with AI is that I now use it more intentionally. I learned how to give AI clearer instructions, evaluate its responses, and use it as a development and thinking partner. I also became more aware of the importance of transparency. AI helped me during the development and documentation of StudyMate, but I still reviewed the project, tested its behavior, and made decisions about its final design myself.
+
+If I continued developing StudyMate, I would add features such as assignment prioritization, estimated task times, progress tracking, and the ability to organize multiple assignments into a weekly plan. I would also like to build more AI projects to improve my understanding of AI agents and practical AI applications.
+
+The three most transferable things I learned are **how to give AI clear and structured instructions, how to evaluate and test AI outputs instead of blindly trusting them, and how to turn an idea into a practical AI project with a defined purpose and limitations**. These skills will be useful beyond this course because they can help me work more effectively with AI in my university studies, future software projects, and eventually my career.
+
+Looking back at Week 1, the biggest difference is that I am no longer thinking about AI only as a tool for getting answers. I now see it as a technology that I can learn to direct, evaluate, and build with responsibly.

@@ -222,3 +222,12 @@ A future version of StudyMate could include:
 StudyMate was created as a personal AI Fluency capstone project.
 
 The goal of the project is to demonstrate how a focused AI agent can help students organize their academic work while maintaining user control and being transparent about its limitations.
+
+## Demo Video
+
+A live 3–5 minute demonstration of StudyMate is available here:
+
+**[Watch the StudyMate Demo](https://drive.google.com/file/d/1hDxU6pBn07_HgNk7R7j0PiMYj4U0jEZF/view?usp=sharing)**
+
+The demo shows StudyMate processing a university assignment, explaining the requirements, breaking the work into manageable steps, creating a checklist, and identifying important requirements. It also explains one design decision and one limitation of the project.
+
